@@ -32,7 +32,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/redrookllc/redrookllc/main/paladin_logo.png" width="90" height="90" alt="Paladin" />
+<img src="https://raw.githubusercontent.com/redrookllc/redrookllc/main/paladin_logo.png?raw=true" width="90" height="90" alt="Paladin" />
 
 <h3>Paladin</h3>
 
@@ -61,7 +61,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/redrookllc/redrookllc/main/vanguard_logo.png" width="90" height="90" alt="Vanguard" />
+<img src="https://raw.githubusercontent.com/redrookllc/redrookllc/main/vanguard_logo.png?raw=true" width="90" height="90" alt="Vanguard" />
 
 <h3>Vanguard</h3>
 
