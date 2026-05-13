@@ -65,7 +65,7 @@
 
 <h3>Vanguard</h3>
 
-[![Model](https://img.shields.io/badge/Meta_Llama_3-8B_Instruct-003274?style=flat-square&logo=meta&logoColor=white&labelColor=0a0a0a)](https://ai.meta.com/)
+[![Model](https://img.shields.io/badge/Vanguard_AI-Modeled_by_Jan.ai-003274?style=flat-square&logoColor=white&labelColor=0a0a0a)](https://jan.ai/)
 [![Status](https://img.shields.io/badge/Status-In_Development-003274?style=flat-square&labelColor=0a0a0a)](#)
 [![Platform](https://img.shields.io/badge/Platform-PyQt-003274?style=flat-square&logo=python&logoColor=white&labelColor=0a0a0a)](#)
 
