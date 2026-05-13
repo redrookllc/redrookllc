@@ -81,7 +81,7 @@
 | Political Intelligence | Congressional portfolios and trade monitoring |
 | Trade Route Monitoring | Suez, Hormuz, Malacca, and key straits |
 | Data Ingestion | Real-time and historical news with live internet access |
-| AI Model | Meta Llama 3 8B Instruct (Q4\_0 GGUF) |
+| AI Model | Vanguard AI (Jan AI-modeled) (Q4\_0 GGUF) |
 | Allocation | Up to 60 GB dedicated model and data storage |
 
 <br/>
